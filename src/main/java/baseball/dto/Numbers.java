@@ -1,6 +1,5 @@
 package baseball.dto;
 
-import java.net.InterfaceAddress;
 import java.util.ArrayList;
 
 public class Numbers {
