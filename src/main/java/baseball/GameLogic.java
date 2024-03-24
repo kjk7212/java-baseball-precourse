@@ -1,7 +1,5 @@
 package baseball;
 
-import java.util.ArrayList;
-
 import baseball.dto.MatchResult;
 import baseball.dto.Numbers;
 
